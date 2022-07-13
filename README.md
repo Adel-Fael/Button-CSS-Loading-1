@@ -1,2 +1,4 @@
-# Button-CSS-Loading-1
- CSS/SCSS Loading Button Effect
+
+### ⏳ Button Loading Animation
+
+![preview img](/preview.png)
