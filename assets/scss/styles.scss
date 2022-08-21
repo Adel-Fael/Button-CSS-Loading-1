@@ -11,7 +11,14 @@
 
 *{
     box-sizing: border-box;
-}
+    -webkit-tap-highlight-color: transparent;
+    -moz-tap-highlight-color: transparent;
+  }
+  
+  a:focus,a:visited,a:active,
+  button:focus,button:visited,button:active{
+    outline: none;
+  }
 
 body{
     height: 100vh;
